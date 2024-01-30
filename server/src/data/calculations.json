@@ -1,0 +1,11 @@
+{
+  "calculations": [
+    {
+      "id": "1",
+      "loanValue": "300000",
+      "yearlyInterestRate": "4",
+      "loanTerm": "30",
+      "email": "test@hotmail.com"
+    }
+  ]
+}
